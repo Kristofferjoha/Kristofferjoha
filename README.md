@@ -59,5 +59,4 @@ Software engineering student from 🇩🇰 with a strong passion for data scienc
 
 - :atom: **Xenon Poisoning Model**  
   Developed a model using differential equations to simulate the dynamics of xenon-135 concentration in nuclear reactors, applying numerical methods to analyze the impact on reactor stability and performance.
-
 <hr />
