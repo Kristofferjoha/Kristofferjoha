@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:
 Software engineering student from 🇩🇰 with a strong passion for data science and machine learning for finance.
 
-- 🏦 Aspiring Quant Developer, passionate about bridging software development and finance, aiming to create data-driven solutions for financial markets.
+- 🏦 Aspiring Quant, passionate about bridging software development and finance, aiming to create data-driven solutions for financial markets.
   
 - 📈 Interests in Finance & Technology: Combining my software skills with a deep interest in stock markets and forex to explore predictive analytics and portfolio optimization.
   
