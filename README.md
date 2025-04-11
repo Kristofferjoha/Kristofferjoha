@@ -8,17 +8,4 @@
   </a>
 </div>
 
-<hr />
-$ whoami
-> Software engineer obsessed with data, machine learning, and math
-
-$ cat passions.txt
-> - Math and Machine learning
-> - Enonomics
-> - Nuclear energy
-> - 
-### 👨‍💻 About Me:
-Software engineering student from 🇩🇰 with a strong passion for data science and machine learning for finance.
-
-⚛️ Strong interest in mathematics and physics with a passion for nuclear energy as a clean and sustainable solution for the future.
 
